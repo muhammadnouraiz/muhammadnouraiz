@@ -5,7 +5,7 @@
 Software Engineering undergraduate at UET Taxila. 🎓<br>Highly interested in full-stack web development. 💻<br>Experienced in building web applications with HTML, CSS, JavaScript, and React. 🚀
 
 
-#Socials:
+# Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/withonly_nouraiz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadnouraiz) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/m_nouraiz_786) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadnouraiz842@gmail.com) 
 
 # Tech Stack:
