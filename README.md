@@ -2,7 +2,7 @@
 
 
 # About Me:
-Software Engineering undergraduate at UET Taxila. 🎓<br>Highly interested in full-stack web development. 💻<br>Experienced in building web applications with HTML, CSS, JavaScript, and React. 🚀
+Software Engineering undergraduate at UET Taxila. 🎓<br>Highly interested in full-stack web development. 💻<br>Experienced in building web applications with HTML, Tailwind CSS, JavaScript, and React. 🚀
 
 
 # Socials:
